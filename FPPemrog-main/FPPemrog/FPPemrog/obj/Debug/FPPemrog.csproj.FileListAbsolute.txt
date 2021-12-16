@@ -1,0 +1,36 @@
+D:\OneDrive - STMIK AMIKOM Yogyakarta\Kuliah\SEM 3\Pemrograman Lanjut\FPPemrog\FPPemrog\bin\Debug\FPPemrog.exe.config
+D:\OneDrive - STMIK AMIKOM Yogyakarta\Kuliah\SEM 3\Pemrograman Lanjut\FPPemrog\FPPemrog\bin\Debug\FPPemrog.exe
+D:\OneDrive - STMIK AMIKOM Yogyakarta\Kuliah\SEM 3\Pemrograman Lanjut\FPPemrog\FPPemrog\bin\Debug\FPPemrog.pdb
+D:\OneDrive - STMIK AMIKOM Yogyakarta\Kuliah\SEM 3\Pemrograman Lanjut\FPPemrog\FPPemrog\obj\Debug\FPPemrog.csproj.AssemblyReference.cache
+D:\OneDrive - STMIK AMIKOM Yogyakarta\Kuliah\SEM 3\Pemrograman Lanjut\FPPemrog\FPPemrog\obj\Debug\View\MainWindow.g.cs
+D:\OneDrive - STMIK AMIKOM Yogyakarta\Kuliah\SEM 3\Pemrograman Lanjut\FPPemrog\FPPemrog\obj\Debug\View\LoginWindow.g.cs
+D:\OneDrive - STMIK AMIKOM Yogyakarta\Kuliah\SEM 3\Pemrograman Lanjut\FPPemrog\FPPemrog\obj\Debug\App.g.cs
+D:\OneDrive - STMIK AMIKOM Yogyakarta\Kuliah\SEM 3\Pemrograman Lanjut\FPPemrog\FPPemrog\obj\Debug\FPPemrog_MarkupCompile.cache
+D:\OneDrive - STMIK AMIKOM Yogyakarta\Kuliah\SEM 3\Pemrograman Lanjut\FPPemrog\FPPemrog\obj\Debug\FPPemrog_MarkupCompile.lref
+D:\OneDrive - STMIK AMIKOM Yogyakarta\Kuliah\SEM 3\Pemrograman Lanjut\FPPemrog\FPPemrog\obj\Debug\View\MainWindow.baml
+D:\OneDrive - STMIK AMIKOM Yogyakarta\Kuliah\SEM 3\Pemrograman Lanjut\FPPemrog\FPPemrog\obj\Debug\View\LoginWindow.baml
+D:\OneDrive - STMIK AMIKOM Yogyakarta\Kuliah\SEM 3\Pemrograman Lanjut\FPPemrog\FPPemrog\obj\Debug\FPPemrog.g.resources
+D:\OneDrive - STMIK AMIKOM Yogyakarta\Kuliah\SEM 3\Pemrograman Lanjut\FPPemrog\FPPemrog\obj\Debug\FPPemrog.Properties.Resources.resources
+D:\OneDrive - STMIK AMIKOM Yogyakarta\Kuliah\SEM 3\Pemrograman Lanjut\FPPemrog\FPPemrog\obj\Debug\FPPemrog.csproj.GenerateResource.cache
+D:\OneDrive - STMIK AMIKOM Yogyakarta\Kuliah\SEM 3\Pemrograman Lanjut\FPPemrog\FPPemrog\obj\Debug\FPPemrog.csproj.CoreCompileInputs.cache
+D:\OneDrive - STMIK AMIKOM Yogyakarta\Kuliah\SEM 3\Pemrograman Lanjut\FPPemrog\FPPemrog\obj\Debug\FPPemrog.exe
+D:\OneDrive - STMIK AMIKOM Yogyakarta\Kuliah\SEM 3\Pemrograman Lanjut\FPPemrog\FPPemrog\obj\Debug\FPPemrog.pdb
+F:\AMIKOM KULIAH\SEMESTER 3\PEMPROGRAMAN LANJUT\FINAL PROJECT\FPPemrog-main\FPPemrog\FPPemrog\bin\Debug\FPPemrog.exe.config
+F:\AMIKOM KULIAH\SEMESTER 3\PEMPROGRAMAN LANJUT\FINAL PROJECT\FPPemrog-main\FPPemrog\FPPemrog\bin\Debug\FPPemrog.exe
+F:\AMIKOM KULIAH\SEMESTER 3\PEMPROGRAMAN LANJUT\FINAL PROJECT\FPPemrog-main\FPPemrog\FPPemrog\bin\Debug\FPPemrog.pdb
+F:\AMIKOM KULIAH\SEMESTER 3\PEMPROGRAMAN LANJUT\FINAL PROJECT\FPPemrog-main\FPPemrog\FPPemrog\obj\Debug\FPPemrog.csprojAssemblyReference.cache
+F:\AMIKOM KULIAH\SEMESTER 3\PEMPROGRAMAN LANJUT\FINAL PROJECT\FPPemrog-main\FPPemrog\FPPemrog\obj\Debug\View\HomePage.g.cs
+F:\AMIKOM KULIAH\SEMESTER 3\PEMPROGRAMAN LANJUT\FINAL PROJECT\FPPemrog-main\FPPemrog\FPPemrog\obj\Debug\View\HomeWindow.g.cs
+F:\AMIKOM KULIAH\SEMESTER 3\PEMPROGRAMAN LANJUT\FINAL PROJECT\FPPemrog-main\FPPemrog\FPPemrog\obj\Debug\View\LoginWindow.g.cs
+F:\AMIKOM KULIAH\SEMESTER 3\PEMPROGRAMAN LANJUT\FINAL PROJECT\FPPemrog-main\FPPemrog\FPPemrog\obj\Debug\App.g.cs
+F:\AMIKOM KULIAH\SEMESTER 3\PEMPROGRAMAN LANJUT\FINAL PROJECT\FPPemrog-main\FPPemrog\FPPemrog\obj\Debug\FPPemrog_MarkupCompile.cache
+F:\AMIKOM KULIAH\SEMESTER 3\PEMPROGRAMAN LANJUT\FINAL PROJECT\FPPemrog-main\FPPemrog\FPPemrog\obj\Debug\FPPemrog_MarkupCompile.lref
+F:\AMIKOM KULIAH\SEMESTER 3\PEMPROGRAMAN LANJUT\FINAL PROJECT\FPPemrog-main\FPPemrog\FPPemrog\obj\Debug\View\HomePage.baml
+F:\AMIKOM KULIAH\SEMESTER 3\PEMPROGRAMAN LANJUT\FINAL PROJECT\FPPemrog-main\FPPemrog\FPPemrog\obj\Debug\View\HomeWindow.baml
+F:\AMIKOM KULIAH\SEMESTER 3\PEMPROGRAMAN LANJUT\FINAL PROJECT\FPPemrog-main\FPPemrog\FPPemrog\obj\Debug\View\LoginWindow.baml
+F:\AMIKOM KULIAH\SEMESTER 3\PEMPROGRAMAN LANJUT\FINAL PROJECT\FPPemrog-main\FPPemrog\FPPemrog\obj\Debug\FPPemrog.g.resources
+F:\AMIKOM KULIAH\SEMESTER 3\PEMPROGRAMAN LANJUT\FINAL PROJECT\FPPemrog-main\FPPemrog\FPPemrog\obj\Debug\FPPemrog.Properties.Resources.resources
+F:\AMIKOM KULIAH\SEMESTER 3\PEMPROGRAMAN LANJUT\FINAL PROJECT\FPPemrog-main\FPPemrog\FPPemrog\obj\Debug\FPPemrog.csproj.GenerateResource.cache
+F:\AMIKOM KULIAH\SEMESTER 3\PEMPROGRAMAN LANJUT\FINAL PROJECT\FPPemrog-main\FPPemrog\FPPemrog\obj\Debug\FPPemrog.csproj.CoreCompileInputs.cache
+F:\AMIKOM KULIAH\SEMESTER 3\PEMPROGRAMAN LANJUT\FINAL PROJECT\FPPemrog-main\FPPemrog\FPPemrog\obj\Debug\FPPemrog.exe
+F:\AMIKOM KULIAH\SEMESTER 3\PEMPROGRAMAN LANJUT\FINAL PROJECT\FPPemrog-main\FPPemrog\FPPemrog\obj\Debug\FPPemrog.pdb
