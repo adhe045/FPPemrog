@@ -13,7 +13,7 @@
         </Grid.ColumnDefinitions>
 
         <StackPanel Grid.Column="0" Background="#47D99C">
-            <Image HorizontalAlignment="Center" Width="100" Margin="0,100,0,0" Source="D:\OneDrive - STMIK AMIKOM Yogyakarta\Kuliah\SEM 3\Pemrograman Lanjut\FPPemrog\FPPemrog\Icon\whatsapp.png"/>
+            <Image HorizontalAlignment="Center" Width="100" Margin="0,100,0,0" Source="F:\AMIKOM KULIAH\SEMESTER 3\PEMPROGRAMAN LANJUT\FINAL PROJECT\FPPemrog-main\FPPemrog\FPPemrog\Icon\Whatsapp.png"/>
             <Label Content="Move" HorizontalAlignment="Center" FontSize="30" FontFamily="Arial black" FontStyle="Normal"/>
             <Label Content="Save for your future" HorizontalAlignment="Center" FontFamily="Arial black" FontSize="20" Margin="0,300,0,0"/>
         </StackPanel>
@@ -32,7 +32,7 @@
             </Border>
 
             <Border CornerRadius="5" Margin="0,50,0,0" BorderThickness="1" Background="#47D99C" HorizontalAlignment="Center" Width="100" Height="50" Padding="0">
-                <Button x:Name="btnLogin" Content="Login" BorderThickness="0" Background="Transparent" FontFamily="Arial Bold" FontSize="25"/>
+                <Button x:Name="btnLogin" Content="Login" BorderThickness="0" Background="Transparent" FontFamily="Arial Bold" FontSize="25" Click="btnLogin_Click_1"/>
             </Border>
         </StackPanel>
     </Grid>
